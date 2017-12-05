@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eraser.png",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\eraser.png"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_img.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\back_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern5.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\pattern5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern6.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\pattern6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern3.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\pattern3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\large.xml",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\large.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\opacity.xml",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\opacity.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medium.xml",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paint_brush.png",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\paint_brush.png"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paint.xml",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\paint.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern2.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\pattern2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern8.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\pattern8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small.xml",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\small.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern1.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\pattern1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern7.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\pattern7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paint_pressed.xml",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\paint_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern4.jpg",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\pattern4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_pic.png",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\new_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\jyoti.shedge\\.android\\build-cache\\f40db06e55b8cf267e8552688ad9723aef9006eb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brush.png",
+        "source": "C:\\Users\\jyoti.shedge\\Desktop\\android-drawing-app-master\\app\\src\\main\\res\\drawable\\brush.png"
+    }
+]

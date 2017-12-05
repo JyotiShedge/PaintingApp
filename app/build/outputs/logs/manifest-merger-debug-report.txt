@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:3:2-34
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:7:2-9:35
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\f40db06e55b8cf267e8552688ad9723aef9006eb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\68722c324594792cbcff20f4770b62e5607e614a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\e3cff6224d1675292ecfe18e3fab3c741fd833bf\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\6953750ed11a677ccf8b44599e04c824c675726c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\60264294a085c96b720321cd7edd8a9c83a2b8ab\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\d1cfd218b23ec06bf81a8c5fdb2374ecbaa2ffb9\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\50da686fcc1d899d0b65e132c071a2d65ddb58c9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\6db48db05220a3bcb25842c755126c1df009c1ef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\8f88fd4ffc845d7ac2c080039d19ddf64e441213\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\f40db06e55b8cf267e8552688ad9723aef9006eb\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:9:3-32
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:8:3-29
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:11:2-78
+	android:name
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:11:19-75
+application
+ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:13:2-28:16
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\f40db06e55b8cf267e8552688ad9723aef9006eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\68722c324594792cbcff20f4770b62e5607e614a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\e3cff6224d1675292ecfe18e3fab3c741fd833bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\6953750ed11a677ccf8b44599e04c824c675726c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\60264294a085c96b720321cd7edd8a9c83a2b8ab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\d1cfd218b23ec06bf81a8c5fdb2374ecbaa2ffb9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\50da686fcc1d899d0b65e132c071a2d65ddb58c9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\6db48db05220a3bcb25842c755126c1df009c1ef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\8f88fd4ffc845d7ac2c080039d19ddf64e441213\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:16:3-35
+	android:allowBackup
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:14:3-29
+	android:icon
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:15:3-39
+	android:theme
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:17:3-61
+activity#com.example.drawingfun.MainActivity
+ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:18:3-27:14
+	android:screenOrientation
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:21:4-40
+	android:label
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:20:4-36
+	android:name
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:19:4-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:22:4-26:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:23:5-57
+	android:name
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:23:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from C:\Users\jyoti.shedge\Desktop\android-drawing-app-master\app\src\main\AndroidManifest.xml:25:15-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\f40db06e55b8cf267e8552688ad9723aef9006eb\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\68722c324594792cbcff20f4770b62e5607e614a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\e3cff6224d1675292ecfe18e3fab3c741fd833bf\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\6953750ed11a677ccf8b44599e04c824c675726c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\60264294a085c96b720321cd7edd8a9c83a2b8ab\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\d1cfd218b23ec06bf81a8c5fdb2374ecbaa2ffb9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\50da686fcc1d899d0b65e132c071a2d65ddb58c9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\6db48db05220a3bcb25842c755126c1df009c1ef\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\8f88fd4ffc845d7ac2c080039d19ddf64e441213\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\f40db06e55b8cf267e8552688ad9723aef9006eb\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jyoti.shedge\.android\build-cache\f40db06e55b8cf267e8552688ad9723aef9006eb\output\AndroidManifest.xml:26:9-47
